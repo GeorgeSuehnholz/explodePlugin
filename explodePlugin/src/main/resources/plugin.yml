@@ -1,0 +1,9 @@
+name: explodePlugin
+main: io.github.GeorgeSuehnholz.explodePlugin.explode
+version: 1.0
+commands:
+   explode:
+      description: Use this to explode other players or yourself.
+      usage: /<command> [player]
+      permission: explodePlugin.explode
+      permission-message: You don't have permission to blow up.
